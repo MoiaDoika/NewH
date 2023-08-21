@@ -1,3 +1,4 @@
+
 public class Homework4o4 {
     public static void main(String[] args) {
 
@@ -6,5 +7,6 @@ public class Homework4o4 {
                 System.out.print(i + " ");
             }
         }
+        System.out.println(" ");
     }
 }
